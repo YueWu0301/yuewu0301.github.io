@@ -6,6 +6,14 @@ author_profile: true
 ---
 Some hobbies and extracurricular activities here~
 
+## Music  
+I am a self-taught guitarist and particularly enjoy fingerstyle playing. 
+I founded a band, Null Point, at 2021, and gave several performances between 2021 and 2022. We were honored to be invited to perform on stage at the **University Anniversary Celebration** ([link](https://www.bilibili.com/video/BV16i4y197Tr/?spm_id_from=333.999.0.0&vd_source=7c9588459b0c334937621efc68ddf142)).  
+
+I’m the guitarist in CDSP, a band founded in 2025. We will be holding a series of performances as part of our Graduation Tour. See you then!
+
+You can find some of my fingerstylze playing [迷林](https://www.bilibili.com/video/BV1NUjEznETp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7c9588459b0c334937621efc68ddf142), [枫叶城](https://www.bilibili.com/video/BV1tNKezzEzs/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7c9588459b0c334937621efc68ddf142)
+
 ## Student Activities
 **I actively participated in student organizations and held various leadership roles during my undergraduate years, including:**
 
@@ -33,8 +41,7 @@ I am passionate about sports, including long-distance running, basketball, and o
 
 
 
-## Music  
-I am a self-taught guitarist and particularly enjoy fingerstyle playing. I founded a band and organized several performances between 2021 and 2022. We were honored to be invited to perform on stage at the **University Anniversary Celebration** ([link](https://www.bilibili.com/video/BV16i4y197Tr/?spm_id_from=333.999.0.0&vd_source=7c9588459b0c334937621efc68ddf142)).  
+
 
 
 

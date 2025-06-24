@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [Statistcs and Data Science](https://stat-ds.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/). I am very fortunate to be advised by [Prof. Jing](https://faculty.sustech.edu.cn/?tagid=jingby&iscss=1&snapid=1&orderby=date&go=1) from [School of Statistcs and Data Science](https://stat-ds.sustech.edu.cn/), Southern University of Science and Technology. **Pursuing a PhD in the field of Artificial Intelligence ~** 
+I'm a incoming PhD candidate at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/), under the Department of [Data Science and Artificial Intelligence](https://www.polyu.edu.hk/en/dsai/). I’m honored to study under the supervison of Prof. Huang Jian. 
 
+ Prior that, I studied in[Statistcs and Data Science](https://stat-ds.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/), advised by [Prof. Jing](https://faculty.sustech.edu.cn/?tagid=jingby&iscss=1&snapid=1&orderby=date&go=1) from [School of Statistcs and Data Science](https://stat-ds.sustech.edu.cn/), Southern University of Science and Technology. 
 
-During my undergraduate studies, I extensively studied computer science, mathematics, and statistics, including data structures and algorithm analysis, convex optimization analysis, statistical learning, and mathematical statistics. I have a solid theoretical foundation in mathematics and statistics and strong learning abilities. 
-I participated in multiple projects across different fields (including Deep Learning & Finance, Graph Learning, LLM , Medical Imaging and Audio Analysis) and have several experiences as RA.
+<!-- During my undergraduate studies, I extensively studied computer science, mathematics, and statistics, including data structures and algorithm analysis, convex optimization analysis, statistical learning, and mathematical statistics. I have a solid theoretical foundation in mathematics and statistics and strong learning abilities. 
+I participated in multiple projects across different fields (including Deep Learning & Finance, Graph Learning, LLM , Medical Imaging and Audio Analysis) and have several experiences as RA. -->
 
 
 <!-- After multiple research experiences, I have discovered that I am deeply interested in several areas related to AI, particularly in: [**Graph Learning**](https://yuewu0301.github.io/research/2024-08-2024-10-GraphLearning)(Graph Reasoning, Graph Summary, Graph&LLM), **NLP&LLM** (Data Augmentation, RAG, Complex Reasoning, LLM&Graph), **AI4Medicine**(Medical Imaging Analysis, Audio Analysis, etc). -->
@@ -29,10 +30,12 @@ You can find some of my research experiences in the **Research** section, severa
 
 You can find my CV [here](../assets/YueWu_CV.pdf).
 
-You can find my Transcript [here](../assets/YueWu_Transcript.pdf).
+<!-- You can find my BachelTranscript [here](../assets/YueWu_Transcript.pdf). -->
 
 ----
 # News:
+- **05/2025** I finished my intern in SenseTime!
+
 - **11/2024** Our paper is under review!
 
 - **10/2024**: One paper (First author) submitted to [ADJ](https://alz-journals.onlinelibrary.wiley.com/journal/15525279/homepage/call-for-papers-spotligh-east-asia) CCF A, IF=13.0, you can see our manuscript  [here](../assets/ADJ.pdf)
